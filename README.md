@@ -4,7 +4,8 @@
 # Bicopter Control Simulation
 
 ## Project description
-Bicopter control simulation using MATLAB and Simulink, implementing an optimal controller, along with a cascade PID controller for feedback. A custom convex optimization solver is also been implemented
+Bicopter control simulation using MATLAB and Simulink, implementing an optimal controller, along with a cascade PID controller for feedback. 
+A custom convex optimization solver is also been implemented.
 Project for the university course: "Process Control"
 
 ## Prerequisites
