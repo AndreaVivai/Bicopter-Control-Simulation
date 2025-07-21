@@ -21,8 +21,8 @@ Project for the university course: "Process Control"
 5. Run `animation.m`
 
 ## Authors
+- Enea Dragoni - GitHub: [https://github.com/EneaDrago](https://github.com/EneaDrago)
 - Andrea Vivai - GitHub: [https://github.com/AndreaVivai](https://github.com/AndreaVivai)
-- Enea Dragoni - GitHub: [https://github.com/EneaDragoni](https://github.com/EneaDragoni)
 
 ## License
 This project is released under the MIT License.
